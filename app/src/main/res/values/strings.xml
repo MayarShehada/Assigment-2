@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ass_noTwo</string>
+    <string name="enter_your_educaion">Enter your Educaion</string>
+    <string name="number_of_years_of_experience">Number of years of experience</string>
+    <string name="save">SAVE</string>
+    <string name="enter_your_major">Enter your major</string>
+    <string name="informaions_about_you">Informaions about you</string>
+    <string name="next">Next</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="enter_your_hobbies">Enter your hobbies</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_email_address">Enter Email address</string>
+    <string name="enter_your_address">Enter your address</string>
+</resources>
